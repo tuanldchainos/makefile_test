@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sum.h": "c",
+        "stdio.h": "c"
+    }
+}
